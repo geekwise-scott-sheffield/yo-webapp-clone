@@ -4,6 +4,11 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
 
+.jumbotron > h2 {
+  text-align:left;
+}
+
+
 .browsehappy {
   margin: 0.2em 0;
   background: #ccc;
